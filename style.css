@@ -148,8 +148,12 @@ p {
     transform: translateX(-50%);
     font-size: 0.8rem;
     width: 95%;
+    text-align: center;
+    font-size: 11px;
 }
-
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
 
 .title {
     margin-top: 1.2rem;
